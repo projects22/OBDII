@@ -1,3 +1,0 @@
-﻿------ Build started: Project: odb2, Configuration: Debug x86 ------
-  odb2 -> C:\Users\moty\Documents\Visual Studio 2010\Projects\odb2\odb2\bin\Debug\odb2.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
